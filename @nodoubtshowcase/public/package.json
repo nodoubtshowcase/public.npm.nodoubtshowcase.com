@@ -1,0 +1,31 @@
+{
+  "name": "@nodoubtshowcase/public",
+  "version": "1.0.0",
+  "description": "Public API for No Doubt Showcase.",
+  "main": "nds.public.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodoubtshowcase/public.npm.nodoubtshowcase.com.git",
+    "directory": "@nodoubtshowcase/public"
+  },
+  "keywords": [
+    "Baseball",
+    "Showcase",
+    "Public"
+  ],
+  "author": "Robert R Murrell",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/nodoubtshowcase/public.npm.nodoubtshowcase.com/issues"
+  },
+  "homepage": "https://github.com/nodoubtshowcase/public.npm.nodoubtshowcase.com#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "moment": "^2.24.0",
+    "querystring": "^0.2.0",
+    "validator": "^11.1.0"
+  }
+}
